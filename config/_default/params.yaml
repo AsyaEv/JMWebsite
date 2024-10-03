@@ -9,6 +9,9 @@ theme: minimal
 day_night: false
 font: 'Rose'
 font_size: L
+appearance:
+  mode: light
+  color: blue
 
 # SEO
 
